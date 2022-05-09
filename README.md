@@ -17,18 +17,10 @@ The binomial distribution is a discrete probability distribution. It describes t
 ![image](https://user-images.githubusercontent.com/104613195/165905146-30e5b86e-4159-41a3-aa6d-885204c2e36a.png)
 
 The following are criteria for a frequency distribution to be a binomial distribution
+
 1. The experiment consists of n repeated trials.
 2. Each trial can result in just two possible outcomes (a success anda failure).
 3. The trials are independent (the outcome on one trial does not affect the outcome on other trials).
-
-
-
-
-
-
-
-
-
 
 # Procedure :
 
